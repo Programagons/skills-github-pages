@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Primera page
 ---
 
+# Guía de Pages
